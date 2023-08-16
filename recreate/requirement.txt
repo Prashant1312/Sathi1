@@ -1,0 +1,123 @@
+08-16 00:40:09.922  1661  3968 I ColorHansManager : ColorHansManager : resume pkg: org.sathi.sathi, uid:10364, prev pkg: com.oppo.launcher, prev uid: 10075
+08-16 00:40:09.927  1661  3968 D ORMS_CORE: Set scene action identity: com.android.server scene: org.sathi.sathi, action: ORMS_ACTION_LAUNCH, timeout: 600, handle: 4612327543382901487
+08-16 00:40:09.928   861   930 I libPowerHal: [perfNotifyAppState] foreground:org.sathi.sathi, pid:32243, uid:10364
+08-16 00:40:09.929  1661  2624 I ColorResourcePreloadManager: resume pkg: org.sathi.sathi, uid:10364, prev pkg: com.oppo.launcher, prev uid: 10075
+08-16 00:40:09.929   861   879 I mtkpower@impl: [notifyAppState] pc:0, com.oppo.launcher => org.sathi.sathi
+08-16 00:40:09.930  8289  8806 W OppoGuardElf: ThermalControlUtils: mForegroundPkg=org.sathi.sathi
+08-16 00:40:09.936 17382 17404 I [0]DCS-BackgroundAppData: sendAppBgEvent: has no pkgName=org.sathi.sathi
+08-16 00:40:09.938  1661  1683 D OomAdjuster: TOP_APP is ProcessRecord{4659220 32243:org.sathi.sathi/u0a364} uid is 10364
+08-16 00:40:09.939  1661  1684 D OppoPhoneWindowManager: RevertColorDrawableInDarkMode packageName = org.sathi.sathi; versionCode = 10211;result = false; time:103692
+08-16 00:40:09.947  1661  1684 D OppoDisplayPolicy: org.sathi.sathi, no change cutoutMode: 0
+08-16 00:40:09.953  1661  1684 D OppoDisplayPolicy: org.sathi.sathi, no change cutoutMode: 0
+08-16 00:40:09.965  3305  3340 E oiface  : packageSwitch pkg org.sathi.sathi, enter
+08-16 00:40:09.965   888  1490 I BufferQueueProducer: [Splash Screen org.sathi.sathi#0](id:37800000f4b,api:2,p:1661,c:888) connect(): api=2 producerControlledByApp=false
+08-16 00:40:09.966  3305  3340 E oiface  : current package is org.sathi.sathi and pid is 32243
+08-16 00:40:09.973  8289  8806 W OppoGuardElf: ThermalControlUtils: mForegroundPkg=org.sathi.sathi
+08-16 00:40:09.978   888   963 D DispPerfService: onframeavailable pid=1661, slot=0, seq=18043, name=system_server:Splash Screen org.sathi.sathi#0
+08-16 00:40:09.978  8289  8806 W OppoGuardElf: ThermalControlUtils: mForegroundPkg=org.sathi.sathi
+08-16 00:40:09.988  1661  4045 I InputDispatcher: Window went away: Splash Screen org.sathi.sathi#0
+08-16 00:40:09.992  3305  3337 D oiface  : forground package is org.sathi.sathi
+08-16 00:40:09.993  1661  3968 D ORMS_CORE: Set scene action identity: com.oppo.launcher.wallpaper scene: org.sathi.sathi, action: ORMS_ACTION_LAUNCHER_OPEN_APP_ANIMATION, timeout: 1000, handle: 118501505060832921
+08-16 00:40:10.004 32243  2091 V pythonutil: Unpacking /data/app/~~qitAzJQsMWTfPqMd8Rg2Pg==/org.sathi.sathi-5R8WXIPeS9KMrL9V9ggE1A==/lib/arm64/libpybundle app
+08-16 00:40:10.009   888   963 I SurfaceFlinger: [SF client] NEW(0xb4000073fcf04200) for (32243:org.sathi.sathi)
+08-16 00:40:10.022  1661  4045 D OppoDisplayPolicy: org.sathi.sathi, no change cutoutMode: 0
+08-16 00:40:10.024   888   963 D DispPerfService: get hint proc=eb9b2d1 org.sathi.sathi, idx=0 none
+08-16 00:40:10.027 32243 32243 I chatty  : uid=10364(org.sathi.sathi) identical 4 lines
+08-16 00:40:10.038  1661  4045 D ColorAppListInterceptManager: shouldFilterTask::packageName = org.sathi.sathi
+08-16 00:40:10.094   888   964 I SurfaceFlinger: [SF client] NEW(0xb4000073fcf04c80) for (32243:org.sathi.sathi)
+08-16 00:40:10.100 32243 32243 I chatty  : uid=10364(org.sathi.sathi) SDLActivity identical 29 lines
+08-16 00:40:10.113  1661  3968 D OppoDisplayPolicy: org.sathi.sathi, no change cutoutMode: 0
+08-16 00:40:10.113  1661  3968 I WindowManager: Relayout Window{eb9b2d1 u0 org.sathi.sathi/org.kivy.android.PythonActivity}: oldVis=4 newVis=0 focusMayChange = true
+08-16 00:40:10.115   888   963 D DispPerfService: get hint proc=org.sathi.sathi, idx=0 none
+08-16 00:40:10.116  1661  3968 W WindowManager: Changing focus fromnull to Window{eb9b2d1 u0 org.sathi.sathi/org.kivy.android.PythonActivity} displayId=0 Callers=com.android.server.wm.RootWindowContainer.updateFocusedWindowLocked:497 com.android.server.wm.WindowManagerService.updateFocusedWindowLocked:6036 com.android.server.wm.WindowManagerService.relayoutWindow:2682 com.android.server.wm.Session.relayout:229
+08-16 00:40:10.130   888  1490 D DispPerfService: get hint proc=Bounds for - org.sathi.sathi, idx=0 none
+08-16 00:40:10.131   888  3080 D DispPerfService: get hint proc=SurfaceView - org.sathi.sathi, idx=0 none
+08-16 00:40:10.132   888  3080 D DispPerfService: get hint proc=Background for -SurfaceView - org.sathi.sathi, idx=0 none
+08-16 00:40:10.135 32243  2088 I GED     : [GT]_getprocess name(org.sathi.sathi)
+08-16 00:40:10.136 32243  2088 I chatty  : uid=10364(org.sathi.sathi) RenderThread identical 25 lines
+08-16 00:40:10.136  1661  3968 I InputDispatcher: Window went away: org.sathi.sathi/org.kivy.android.PythonActivity#0
+08-16 00:40:10.136 32243  2088 I chatty  : uid=10364(org.sathi.sathi) RenderThread identical 5 lines
+08-16 00:40:10.137 32243  2088 I chatty  : uid=10364(org.sathi.sathi) RenderThread identical 4 lines
+08-16 00:40:10.137 32243  2088 I chatty  : uid=10364(org.sathi.sathi) RenderThread identical 18 lines
+08-16 00:40:10.140 32243  2106 V SDL     : Running main function SDL_main from library /data/app/~~qitAzJQsMWTfPqMd8Rg2Pg==/org.sathi.sathi-5R8WXIPeS9KMrL9V9ggE1A==/lib/arm64/libmain.so
+08-16 00:40:10.140   888  3080 I BufferQueueProducer: [org.sathi.sathi/org.kivy.android.PythonActivity#0](id:37800000f4c,api:1,p:32243,c:888) connect(): api=1 producerControlledByApp=false
+08-16 00:40:10.141 32243  2106 I python  : /data/user/0/org.sathi.sathi/files/app
+08-16 00:40:10.144 32243  2106 I python  : /data/user/0/org.sathi.sathi/files/app/_python_bundle/stdlib.zip:/data/user/0/org.sathi.sathi/files/app/_python_bundle/modules
+08-16 00:40:10.164 32243 32243 W SDLThread: type=1400 audit(0.0:194085): avc: granted { execute } for path="/data/data/org.sathi.sathi/files/app/_python_bundle/modules/zlib.cpython-310.so" dev="sdc51" ino=654677 scontext=u:r:untrusted_app:s0:c108,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c108,c257,c512,c768 tclass=file app=org.sathi.sathi
+08-16 00:40:10.183   888  3080 D DispPerfService: onframeavailable pid=32243, slot=0, seq=18050, name=org.sathi.sathi:org.sathi.sathi/org.kivy.android.PythonActivity#0
+08-16 00:40:10.192  1661  1694 D ArtManagerInternalImpl: /data/misc/iorapd/org.sathi.sathi/10211/org.kivy.android.PythonActivity/compiled_traces/compiled_trace.pb doesn't exist
+08-16 00:40:10.193 32243  2106 I python  : Android path ['.', '/data/user/0/org.sathi.sathi/files/app/_python_bundle/stdlib.zip', '/data/user/0/org.sathi.sathi/files/app/_python_bundle/modules', '/data/user/0/org.sathi.sathi/files/app/_python_bundle/site-packages']
+08-16 00:40:10.195  1661  1694 I ActivityTaskManager: Displayed org.sathi.sathi/org.kivy.android.PythonActivity: +288ms
+08-16 00:40:10.196  1661  3968 D OppoDisplayPolicy: org.sathi.sathi, no change cutoutMode: 0
+08-16 00:40:10.196   888  1490 I BufferQueueProducer: [Splash Screen org.sathi.sathi#0](id:37800000f4b,api:2,p:1661,c:888) disconnect(): api=2
+08-16 00:40:10.201   888  1490 D DispPerfService: get hint proc=Surface(name=5209913 Splash Screen org.sathi.sathi), idx=0 none
+08-16 00:40:10.204  1661  4045 I InputDispatcher: Focus entered window: Window{eb9b2d1 u0 org.sathi.sathi/org.kivy.android.PythonActivity} in display 0
+08-16 00:40:10.205   888   888 E OppoExLayer: using cid as pid, cid=32243, name=Background for -SurfaceView - org.sathi.sathi/org.kivy.android.PythonActivity#0
+08-16 00:40:10.212  1661  4045 D InputMethodManagerService: isSecurity: attribute.packageName=org.sathi.sathi
+08-16 00:40:10.217  1661  2113 I InputDispatcher: Window went away: Window{5209913 u0 Splash Screen org.sathi.sathi}
+08-16 00:40:10.229  3972  3972 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1902 onStartInput(EditorInfo{EditorInfo{packageName=org.sathi.sathi, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+08-16 00:40:10.262  1661  3968 V ColorZoomWindowManagerService: onAnimationFinished:  r = ActivityRecord{293c543 u0 org.sathi.sathi/org.kivy.android.PythonActivity t847}
+08-16 00:40:10.262  1661  3968 I ColorAppSwitchManagerService:  handleAppVisible , r = ActivityRecord{293c543 u0 org.sathi.sathi/org.kivy.android.PythonActivity t847}
+08-16 00:40:10.308 32243 32243 W SDLThread: type=1400 audit(0.0:194086): avc: granted { execute } for path="/data/data/org.sathi.sathi/files/app/_python_bundle/modules/math.cpython-310.so" dev="sdc51" ino=654666 scontext=u:r:untrusted_app:s0:c108,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c108,c257,c512,c768 tclass=file app=org.sathi.sathi
+08-16 00:40:10.353 32243  2106 I python  : [INFO   ] [Logger      ] Record log in /data/user/0/org.sathi.sathi/files/app/.kivy/logs/kivy_23-08-16_2.txt
+08-16 00:40:10.354 32243  2106 I python  : [INFO   ] [Kivy        ] Installed at "/data/user/0/org.sathi.sathi/files/app/_python_bundle/site-packages/kivy/__init__.pyc"
+08-16 00:40:10.396   888   888 D OppoExLayer: ~Layer() sequence=18056, name=Surface(name=5209913 Splash Screen org.sathi.sathi)/@0xa7ff13c - animation-leash#0@0xb4000073f2142000
+08-16 00:40:10.396   888   888 D OppoExLayer: ~Layer() sequence=18042, name=5209913 Splash Screen org.sathi.sathi#0@0xb4000073f2123000
+08-16 00:40:10.397  1661  3968 I InputDispatcher: Window went away: Splash Screen org.sathi.sathi#0
+08-16 00:40:10.398   888   888 I BufferQueueConsumer: [Splash Screen org.sathi.sathi#0](id:37800000f4b,api:0,p:-1,c:888) disconnect()
+08-16 00:40:10.398   888   888 I BufferQueue: [Splash Screen org.sathi.sathi#0](this:0xb400007411a89c58,id:3915,api:2,p:-1,c:-1) onDestructor()
+08-16 00:40:10.398   888   888 D OppoExLayer: ~Layer() sequence=18043, name=Splash Screen org.sathi.sathi#0@0xb4000073f2170000
+08-16 00:40:11.064 32243 32243 W SDLThread: type=1400 audit(0.0:194105): avc: granted { execute } for path="/data/data/org.sathi.sathi/files/app/_python_bundle/modules/_socket.cpython-310.so" dev="sdc51" ino=654643 scontext=u:r:untrusted_app:s0:c108,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c108,c257,c512,c768 tclass=file app=org.sathi.sathi
+08-16 00:40:11.072 32243 32243 W SDLThread: type=1400 audit(0.0:194106): avc: granted { execute } for path="/data/data/org.sathi.sathi/files/app/_python_bundle/modules/array.cpython-310.so" dev="sdc51" ino=654658 scontext=u:r:untrusted_app:s0:c108,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c108,c257,c512,c768 tclass=file app=org.sathi.sathi
+08-16 00:40:11.076 32243 32243 W SDLThread: type=1400 audit(0.0:194107): avc: granted { execute } for path="/data/data/org.sathi.sathi/files/app/_python_bundle/modules/_ssl.cpython-310.so" dev="sdc51" ino=654645 scontext=u:r:untrusted_app:s0:c108,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c108,c257,c512,c768 tclass=file app=org.sathi.sathi
+08-16 00:40:11.092 32243 32243 W SDLThread: type=1400 audit(0.0:194108): avc: granted { execute } for path="/data/data/org.sathi.sathi/files/app/_python_bundle/modules/binascii.cpython-310.so" dev="sdc51" ino=654663 scontext=u:r:untrusted_app:s0:c108,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c108,c257,c512,c768 tclass=file app=org.sathi.sathi
+08-16 00:40:11.108 32243 32243 W SDLThread: type=1400 audit(0.0:194109): avc: granted { execute } for path="/data/data/org.sathi.sathi/files/app/_python_bundle/modules/_contextvars.cpython-310.so" dev="sdc51" ino=654615 scontext=u:r:untrusted_app:s0:c108,c257,c512,c768 tcontext=u:object_r:app_data_file:s0:c108,c257,c512,c768 tclass=file app=org.sathi.sathi
+08-16 00:40:11.536 32243  2106 I python  : [INFO   ] [KivyMD      ] 1.1.1, git-Unknown, 2023-08-15 (installed at "/data/user/0/org.sathi.sathi/files/app/_python_bundle/site-packages/kivymd/__init__.pyc")
+08-16 00:40:11.628 32243  2106 I chatty  : uid=10364(org.sathi.sathi) SDLThread identical 8 lines
+08-16 00:40:11.631  1661  4205 D OppoDisplayPolicy: org.sathi.sathi, no change cutoutMode: 0
+08-16 00:40:11.632   888  1490 I BufferQueueProducer: [SurfaceView - org.sathi.sathi/org.kivy.android.PythonActivity#0](id:37800000f4d,api:1,p:32243,c:888) connect(): api=1 producerControlledByApp=false
+08-16 00:40:11.634 32243  2106 I GED     : [GT]_getprocess name(org.sathi.sathi)
+08-16 00:40:11.652   888  3080 I BufferQueueProducer: [org.sathi.sathi/org.kivy.android.PythonActivity#0](this:0xb4000073f2095258,id:3916,api:1,p:32243,c:888) queueBuffer: fps=0.68 dur=1468.32 max=1468.32 min=1468.32
+08-16 00:40:11.653  1661  1675 D OppoDisplayPolicy: org.sathi.sathi, no change cutoutMode: 0
+08-16 00:40:12.088  1661  1675 D ColorAppListInterceptManager: shouldFilterTask::packageName = org.sathi.sathi
+08-16 00:40:12.167  1661  1675 D ColorAppListInterceptManager: shouldFilterTask::packageName = org.sathi.sathi
+08-16 00:40:12.384 32243  2106 I python  :  ImportError: dlopen failed: "/data/data/org.sathi.sathi/files/app/_python_bundle/site-packages/pyaudio/_portaudio.so" is for EM_X86_64 (62) instead of EM_AARCH64 (183)
+08-16 00:40:12.686 32243  2106 D RefBase : #02 pc 0000000000274348  /data/app/~~qitAzJQsMWTfPqMd8Rg2Pg==/org.sathi.sathi-5R8WXIPeS9KMrL9V9ggE1A==/lib/arm64/libpython3.10.so (Py_Exit+32)
+08-16 00:40:12.686 32243  2106 D RefBase : #03 pc 0000000000279d3c  /data/app/~~qitAzJQsMWTfPqMd8Rg2Pg==/org.sathi.sathi-5R8WXIPeS9KMrL9V9ggE1A==/lib/arm64/libpython3.10.so
+08-16 00:40:12.686 32243  2106 D RefBase : #04 pc 00000000002795c4  /data/app/~~qitAzJQsMWTfPqMd8Rg2Pg==/org.sathi.sathi-5R8WXIPeS9KMrL9V9ggE1A==/lib/arm64/libpython3.10.so (PyRun_SimpleStringFlags+248)
+08-16 00:40:12.686 32243  2106 D RefBase : #05 pc 00000000000027e0  /data/app/~~qitAzJQsMWTfPqMd8Rg2Pg==/org.sathi.sathi-5R8WXIPeS9KMrL9V9ggE1A==/lib/arm64/libmain.so (SDL_main+2824)
+08-16 00:40:12.686 32243  2106 D RefBase : #06 pc 00000000000b0190  /data/app/~~qitAzJQsMWTfPqMd8Rg2Pg==/org.sathi.sathi-5R8WXIPeS9KMrL9V9ggE1A==/lib/arm64/libSDL2.so (Java_org_libsdl_app_SDLActivity_nativeRunMain+772)
+08-16 00:40:12.686 32243  2106 D RefBase : #14 pc 000000000000c36e  [anon:dalvik-classes3.dex extracted in memory from /data/app/~~qitAzJQsMWTfPqMd8Rg2Pg==/org.sathi.sathi-5R8WXIPeS9KMrL9V9ggE1A==/base.apk!classes3.dex:0000007144a41000] (org.libsdl.app.SDLMain.run+166)
+08-16 00:40:12.715  1661  1814 W InputDispatcher: channel 'eb9b2d1 org.sathi.sathi/org.kivy.android.PythonActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+08-16 00:40:12.715  1661  1814 E InputDispatcher: channel 'eb9b2d1 org.sathi.sathi/org.kivy.android.PythonActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+08-16 00:40:12.716  1661  1675 I WindowManager: WIN DEATH: Window{eb9b2d1 u0 org.sathi.sathi/org.kivy.android.PythonActivity}
+08-16 00:40:12.716  1661  1675 W InputDispatcher: Attempted to unregister already unregistered input channel 'eb9b2d1 org.sathi.sathi/org.kivy.android.PythonActivity (server)'
+08-16 00:40:12.716   888  3080 I BufferQueueProducer: [org.sathi.sathi/org.kivy.android.PythonActivity#0](id:37800000f4c,api:1,p:32243,c:888) disconnect(): api=1
+08-16 00:40:12.716   888  3080 I BufferQueueProducer: [SurfaceView - org.sathi.sathi/org.kivy.android.PythonActivity#0](id:37800000f4d,api:1,p:32243,c:888) disconnect(): api=1
+08-16 00:40:12.718   888   888 E Layer   : [Bounds for - org.sathi.sathi/org.kivy.android.PythonActivity#0] No local sync point found
+08-16 00:40:12.720  1661  2580 I InputDispatcher: Focus left window: Window{eb9b2d1 u0 org.sathi.sathi/org.kivy.android.PythonActivity} in display 0
+08-16 00:40:12.720  1661  2580 I InputDispatcher: Window went away: Window{eb9b2d1 u0 org.sathi.sathi/org.kivy.android.PythonActivity}
+08-16 00:40:12.721  1661  1675 W WindowManager: Changing focus fromWindow{eb9b2d1 u0 org.sathi.sathi/org.kivy.android.PythonActivity} to null displayId=0 Callers=com.android.server.wm.RootWindowContainer.updateFocusedWindowLocked:497 com.android.server.wm.WindowManagerService.updateFocusedWindowLocked:6036 com.android.server.wm.RootWindowContainer.performSurfacePlacementNoTrace:866 com.android.server.wm.RootWindowContainer.performSurfacePlacement:850
+08-16 00:40:12.729  1661  4089 D TheiaCrashMonitor: org.sathi.sathicrash
+08-16 00:40:12.729  1661  4089 I ActivityManager: Process org.sathi.sathi (pid 32243) has died: fg  TOP
+08-16 00:40:12.732  1661  4089 W ActivityTaskManager: Force removing ActivityRecord{293c543 u0 org.sathi.sathi/org.kivy.android.PythonActivity t847}: app died, no saved state
+08-16 00:40:12.732   861   930 I libPowerHal: [perfNotifyAppState] pack:org.sathi.sathi, pid:32243, STATE_DEAD
+08-16 00:40:12.735   888   888 D OppoExLayer: ~Layer() sequence=18049, name=eb9b2d1 org.sathi.sathi/org.kivy.android.PythonActivity#0@0xb4000073fcfe4000
+08-16 00:40:12.736  1661  4089 V ColorZoomWindowManagerService: onAnimationFinished:  r = ActivityRecord{293c543 u0 org.sathi.sathi/org.kivy.android.PythonActivity t847 f}}
+08-16 00:40:12.736  1661  2580 I InputDispatcher: Window went away: SurfaceView - org.sathi.sathi/org.kivy.android.PythonActivity#0
+08-16 00:40:12.738   888   888 I BufferQueueConsumer: [org.sathi.sathi/org.kivy.android.PythonActivity#0](id:37800000f4c,api:0,p:-1,c:888) disconnect()
+08-16 00:40:12.738  1661  4089 D WindowManager: removeChild,stack:Task{3d797c0 #847 visible=true type=standard mode=fullscreen translucent=true A=10364:org.sathi.sathi U=0 StackId=847 sz=0}
+08-16 00:40:12.738   888   888 I BufferQueue: [org.sathi.sathi/org.kivy.android.PythonActivity#0](this:0xb4000073f2095258,id:3916,api:1,p:-1,c:-1) onDestructor()
+08-16 00:40:12.738   888   888 D OppoExLayer: ~Layer() sequence=18050, name=org.sathi.sathi/org.kivy.android.PythonActivity#0@0xb4000073fcfed000
+08-16 00:40:12.738   888   888 D OppoExLayer: ~Layer() sequence=18053, name=Bounds for - org.sathi.sathi/org.kivy.android.PythonActivity#0@0xb4000073f20cd000
+08-16 00:40:12.738   888   888 I BufferQueueConsumer: [SurfaceView - org.sathi.sathi/org.kivy.android.PythonActivity#0](id:37800000f4d,api:0,p:-1,c:888) disconnect()
+08-16 00:40:12.738   888   888 D OppoExLayer: ~Layer() sequence=18054, name=SurfaceView - org.sathi.sathi/org.kivy.android.PythonActivity#0@0xb4000073d68ab000
+08-16 00:40:12.738   888   888 D OppoExLayer: ~Layer() sequence=18055, name=Background for -SurfaceView - org.sathi.sathi/org.kivy.android.PythonActivity#0@0xb4000073d68ae000
+08-16 00:40:12.741  1661  4089 I ColorHansManager : ColorHansManager : resume pkg: com.oppo.launcher, uid:10075, prev pkg: org.sathi.sathi, prev uid: 10364
+08-16 00:40:12.746  1661  2624 I ColorResourcePreloadManager: resume pkg: com.oppo.launcher, uid:10075, prev pkg: org.sathi.sathi, prev uid: 10364
+08-16 00:40:12.749   861   879 I mtkpower@impl: [notifyAppState] pc:0, org.sathi.sathi => com.oppo.launcher
+08-16 00:40:12.775   888   888 D OppoExLayer: ~Layer() sequence=18041, name=ActivityRecord{293c543 u0 org.sathi.sathi/org.kivy.android.PythonActivity#0@0xb4000073f2080000
+08-16 00:40:12.794  1661  1661 I OppoPhoneWindowManager: KeyLockModeReceiver KeyLockMode: 0 ProcessName: org.sathi.sathi
+08-16 00:40:12.908  1661  2579 D ColorAppListInterceptManager: shouldFilterTask::packageName = org.sathi.sathi
+08-16 00:40:12.916  1661  2579 D ColorAppListInterceptManager: shouldFilterTask::packageName = org.sathi.sathi
+08-16 00:40:14.896  1661  1918 D ORMS_CORE: receiveIdleMsg SceneInfo: null  mCurrentPkgName: org.sathi.sathi
